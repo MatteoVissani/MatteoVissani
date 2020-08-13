@@ -12,6 +12,7 @@
 - 📫 How to reach me **matteo.vissani92@gmail.com**
 
 <h2 align="left"> Skills:
+  
 <p align="left"> Programming Language </p>
 
 <p align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img  
@@ -45,4 +46,5 @@ src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-pl
 <p align="center">
 <a href="https://twitter.com/matteovissani92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="matteovissani92" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/matteo-vissani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="matteo-vissani" height="30" width="30" /></a>
+<a href="https://scholar.google.it/citations?user=xYmTzVQAAAAJ&hl=it" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="matteo-vissani" height="30" width="30" /></a>
 </p>

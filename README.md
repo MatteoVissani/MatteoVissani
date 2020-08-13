@@ -5,7 +5,7 @@
 <p align="center"> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab37b4" target="blank"> <img align="center" src="brain_art_4.jpg" alt="TouretteSTN" width="800" height="400" /> </a></p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matteovissani" alt="matteovissani" /> </p>
-
+<p align ="center"> Vissani M, Cordella R, Micera S, Eleopra R, Romito LM, Mazzoni A. Spatio-temporal structure of single neuron subthalamic activity identifies DBS target for anesthetized Tourette syndrome patients. J Neural Eng. 2019;16(6):066011. Published 2019 Oct 23. doi:10.1088/1741-2552/ab37b4 </p>
 - 🌱 I’m currently learning **Bayesian Framework and Julia**
 
 - 👨‍💻 My website [https://matteovissani.github.io/](https://matteovissani.github.io/)

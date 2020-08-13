@@ -3,7 +3,7 @@
 <p align = "justify"> My research interest lies in the intersection between computational methods, neuroengineering and neuroscientific and/or clinical questions. As part of my PhD programme, I am developing theoretical tools and computational approaches to elucidate how different brain regions in basal ganglia communicate and control behaviour in movement disorders, e.g. Parkinson's Disease.</p>
 
 <figure class="large">
-        <video width="320" height="240" autoplay controls loop="loop">
+        <video autoplay controls loop="loop">
            <source src=https://github.com/MatteoVissani/MatteoVissani.github.io/tree/master/assets/css/images/video_dbs.mp4"type="video/mp4" />
        </video>
 <figcaption>A nice movie format</figcaption>

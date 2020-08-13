@@ -36,7 +36,7 @@ src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" widt
 src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></p>
 
 <p align="left"> Other </p>
-src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img 
+<p align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteovissani&layout=compact&hide=html" alt="matteovissani" /></p>
 

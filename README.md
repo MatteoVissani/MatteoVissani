@@ -3,7 +3,7 @@
 <p align = "justify"> My research interest lies in the intersection between computational methods, neuroengineering and neuroscientific and/or clinical questions. As part of my PhD programme, I am developing theoretical tools and computational approaches to elucidate how different brain regions in basal ganglia communicate and control behaviour in movement disorders, e.g. Parkinson's Disease.</p>
 
 <p align="center"> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab37b4" target="blank"> <img align="center" src="brain_art_4.jpg" alt="TouretteSTN" width="800" height="400" /> </a></p>
-<p align="left"> This image was obtained using the advanced processing pipeline  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811918307663?via%3Dihub" target="blank"> (Horn & Li et al. 2018)</a> in <a href="https://www.lead-dbs.org/" target="blank"> Lead-DBS</a></p>
+<p align="left"> This image was obtained using the advanced processing pipeline  <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053811918307663?via%3Dihub" target="blank"> (Horn & Li et al. 2018)</a> in <a href="https://www.lead-dbs.org/" target="blank"> Lead-DBS</a>.</p>
 <p align="left"> Paper: <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab37b4" target="blank"> Vissani M, Cordella R, Micera S, Eleopra R, Romito LM, Mazzoni A. Spatio-temporal structure of single neuron subthalamic activity identifies DBS target for anesthetized Tourette syndrome patients. J Neural Eng. 2019;16(6):066011. Published 2019 Oct 23.</a></p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=matteovissani" alt="matteovissani" /> </p>

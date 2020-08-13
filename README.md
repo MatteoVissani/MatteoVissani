@@ -2,7 +2,7 @@
 <h3 align="center">A PhD student in Biorobotics with a keen interest in neuroscience, neurotechnology and computational modelling.</h3>
 <p align = "justify"> My research interest lies in the intersection between computational methods, neuroengineering and neuroscientific and/or clinical questions. As part of my PhD programme, I am developing theoretical tools and computational approaches to elucidate how different brain regions in basal ganglia communicate and control behaviour in movement disorders, e.g. Parkinson's Disease.</p>
 
-<p align="center"> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab37b4" target="blank"> <img src="https://github.com/MatteoVissani/MatteoVissani.github.io/tree/master/assets/css/images/brain_art2.jpg" alt="TouretteSTN" /> </a></p>
+<p align="center"> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab37b4" target="blank"> <img src="https://github.com/MatteoVissani/MatteoVissani.github.io/tree/master/assets/css/images/brain_art2.jpg"/> </a></p>
   
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matteovissani" alt="matteovissani" /> </p>

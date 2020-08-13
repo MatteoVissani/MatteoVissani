@@ -7,8 +7,6 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=matteovissani" alt="matteovissani" /> </p>
 
-
-
 - 🌱 I’m currently learning **Bayesian Framework and Julia**
 
 - 👨‍💻 My website [https://matteovissani.github.io/](https://matteovissani.github.io/)

@@ -24,7 +24,7 @@ src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wor
 src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img 
 src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/> </p>
 
-<p align="left"> Fronted development </p>
+<p align="left"> Frontend development </p>
 
 <p align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img 
 src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </p>

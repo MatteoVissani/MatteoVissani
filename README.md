@@ -4,7 +4,7 @@
 
 <figure class="large">
         <video autoplay controls loop="loop">
-           <source src=https://github.com/MatteoVissani/MatteoVissani.github.io/tree/master/assets/css/images/video_dbs.mp4"type="video/mp4" />
+           <source src=https://github.com/MatteoVissani/MatteoVissani.github.io/tree/master/assets/css/images/video_dbs2.mp4"type="video/mp4" />
        </video>
 <figcaption>A nice movie format</figcaption>
 </figure>

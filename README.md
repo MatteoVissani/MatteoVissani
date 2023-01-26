@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matteo Vissani</h1>
-<h3 align="center">A PhD student in Biorobotics with a keen interest in neuroscience, neurotechnology and computational modelling.</h3>
+<h3 align="center">A Postdoctoral Research Fellow in the <a href="https://www.brainmodulationlab.org/" target="blank">Brain Modulation Lab/a>.</p> in the Massachusetts general Hospital with a keen interest in neuroscience, neurotechnology and computational modelling.</h3>
 <p align = "justify"> My research interest lies in the intersection between computational methods, neuroengineering and neuroscientific and/or clinical questions. As part of my PhD programme, I am developing theoretical tools and computational approaches to elucidate how different brain regions in basal ganglia communicate and control behaviour in movement disorders, e.g. Parkinson's Disease.</p>
 
 <p align="center"> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab37b4" target="blank"> <img align="center" src="brain_art_4.jpg" alt="TouretteSTN" width="800" height="400" /> </a></p>
